@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Surya Prakash Madichetti
 **Data Science Graduate Student | Aspiring Data Scientist**
 
 ## 📌 Summary  
