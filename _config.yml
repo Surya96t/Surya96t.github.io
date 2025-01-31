@@ -1,0 +1,5 @@
+# add the following to _config.yml file
+title: Surya Prakash Madichetti
+# logo: /assets/profilePic.png
+# show_downloads: true
+theme: jeykll-theme-minimal
