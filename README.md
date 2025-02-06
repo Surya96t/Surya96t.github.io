@@ -32,14 +32,10 @@ Data Science graduate with Azure certifications and experience in machine learni
 ## Projects
 
 ### Data Analysis & Insights (Crime Analysis)
-- **Spatiotemporal Analysis:** Conducted analysis of crime patterns in DC using Python/R and geospatial tools (GeoPandas, Tableau) to identify peak crime hours, high-risk seasons, and geographic hotspots.
-- **Crime Quantification:** Measured prevalence of crime types (e.g., theft, assault) and methods (e.g., firearms, physical force) to inform law enforcement resource allocation.
-- **Spatial Clustering:** Mapped crime density across neighborhoods/wards to identify high-risk zones (e.g., Ward 2, Police District 1) contributing to 40%+ of incidents.
-- **Comparative Analysis:** Compared violent vs. property crimes, finding neighborhoods with 2x higher violent crime rates correlated with socioeconomic factors.
-
-### Predictive Modeling & Strategy (Crime Trends)
-- Engineered time-series forecasts (ARIMA, Prophet) to predict monthly crime incidents with 85% accuracy.
-- Developed regression models isolating key predictors (e.g., shift timing, neighborhood demographics) to reveal a 25% higher likelihood of thefts during evenings.
+- Drone Surveillance: Developed object detection model for Raspberry Pi powered drone utilizing cameras and Python Language.
+- Crime Stats Dashboard: Performed exploratory data analysis (EDA) on crime statistics to uncover temporal patterns and geospatial hotspots for identifying priority zones in DC area using Python and Jupyter notebooks.
+- Correlation Analysis: Executed statistical hypothesis testing and correlation analysis to identify relationships between crime categories.
+- PowerBI Dashboard: Designed interactive geospatial heatmaps and PowerBI to visualize neighborhood crime density.
 
 ### Bike Share Analysis
 - **Objective:** Developed a predictive analytics solution to forecast bike rental demand using machine learning.
